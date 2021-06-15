@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhenwei Dai / Site Title"
+title                    : "Zhenwei Dai"
 title_separator          : "-"
 name                     : &name "Zhenwei Dai"
 description              : &description "personal description"
