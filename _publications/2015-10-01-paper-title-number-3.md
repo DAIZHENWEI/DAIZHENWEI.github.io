@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Active Sampling Count Sketch (ASCS) for Online Sparse Estimation of a Trillion Scale Covariance Matrix"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
----
-This paper is about the number 3. The number 4 is left for future work.
+date: 2021-06
+venue: 'ACM SIGMOD 2021'
+paperurl: 'https://arxiv.org/pdf/2010.15951.pdf'
+citation: 'Dai, Zhenwei, et al. "Active Sampling Count Sketch (ASCS) for Online Sparse Estimation of a Trillion Scale Covariance Matrix." ACM SIGMOD 2021.'
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://arxiv.org/pdf/2010.15951.pdf')
+
+Recommended citation: Dai, Zhenwei, et al. "Active Sampling Count Sketch (ASCS) for Online Sparse Estimation of a Trillion Scale Covariance Matrix." ACM SIGMOD 2021.
