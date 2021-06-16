@@ -20,5 +20,5 @@ Before I joined Rice University, my research area focus on bioinformatics and bi
 
 <br>
 <b>[Mucosal microbiome dysbiosis in gastric carcinogenesis](https://pubmed.ncbi.nlm.nih.gov/28765474/)</b> <br> 
-<b>Olabisi Oluwabukola Coker, <b>Zhenwei Dai</b>, Yongzhan Nie, etc. <br> 
+Olabisi Oluwabukola Coker, <b>Zhenwei Dai</b>, Yongzhan Nie, etc. <br> 
 <i>Gut, 67(6):1024–1032, 2018.</i>. <span style="color:red"> [Paper Link](https://pubmed.ncbi.nlm.nih.gov/28765474/)</span>
