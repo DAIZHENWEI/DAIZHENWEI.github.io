@@ -3,7 +3,7 @@ title: "Federated Multiple Label Hashing (FedMLH): Communication Efficient Feder
 collection: publications
 permalink: /publications/FedMLH
 # venue: "In Submission"
-date: 2021-06-01
+# date: 2021-06-01
 # citation: '<b>Zhenwei Dai</b>, Chen Dun, Yuxin Tang, Anshumali Shrivastava.'
 ---
 
