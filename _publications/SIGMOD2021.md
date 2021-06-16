@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/SIGMOD2021
 venue: "ACM SIGMOD 2021 "
 date: 2021-06-22
-citation: '<b>Zhenwei Dai</b>, Aditya Desai</b>, Reinhard Heckel</b>, Anshumali Shrivastava. <b>ACM SIGMOD 2021.</b>'
+citation: '<b>Zhenwei Dai</b>, Aditya Desai, Reinhard Heckel, Anshumali Shrivastava. <b>ACM SIGMOD 2021.</b>'
 ---
 
 [[PDF]](https://arxiv.org/pdf/2010.15951.pdf)
