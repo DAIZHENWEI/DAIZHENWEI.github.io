@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-Before I joined Rice University, my research area focus on bioinformatics and biostatistics. The following publications are part of my work completed during my MPhil program at <b>Chinese University of Hong Kong</b>. 
+Before I joined Rice University, my research projects focus on bioinformatics and biostatistics. The following publications are part of my work completed during my MPhil program at <b>Chinese University of Hong Kong</b>. 
 
 
 <br>

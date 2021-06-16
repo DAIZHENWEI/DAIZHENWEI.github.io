@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 <br>
+<b>[Federated Multiple Label Hashing (FedMLH): Communication Efficient Federated Learning on Extreme Classification Tasks](http://DAIZHENWEI.github.io/publications/FedMLH)</b> <br> 
+<b>Zhenwei Dai</b>,  Chen Dun, Yuxin Tang, Anshumali Shrivastava. <br> 
+<i>In Submission</i>
+
+<br>
 <b>[Active Sampling Count Sketch (ASCS) for Online Sparse Estimation of a Trillion Scale Covariance Matrix](http://DAIZHENWEI.github.io/publications/SIGMOD2021)</b> <br> 
 <b>Zhenwei Dai</b>,  Aditya Desai, Reinhard Heckel, Anshumali Shrivastava. <br> 
 <i>In Proceedings of the International Conference on Management of Data</i>. <b>ACM SIGMOD 2021</b>.  <span style="color:red"> [Paper Link](https://arxiv.org/pdf/2010.15951.pdf)</span>
