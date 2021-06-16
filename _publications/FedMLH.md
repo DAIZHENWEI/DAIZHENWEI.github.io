@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/FedMLH
 venue: "In Submission"
 date: 2021-06-01
-citation: '<b>Zhenwei Dai</b>, Chen Dun, Yuxin Tang, Anshumali Shrivastava. <b>ACM SIGMOD 2021.</b>'
+# citation: '<b>Zhenwei Dai</b>, Chen Dun, Yuxin Tang, Anshumali Shrivastava.'
 ---
 
 
