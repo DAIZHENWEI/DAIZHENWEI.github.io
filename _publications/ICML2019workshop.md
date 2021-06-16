@@ -3,7 +3,7 @@ title: "Channel Normalization in Convolutional Neural Network avoids Vanishing G
 collection: publications
 permalink: /publications/ICML2019DeepPhenomenaWorkshop
 venue: "ICML 2019 Deep Phenomena Workshop"
-date: 2019-06
+date: 2019-06-20
 citation: '<b>Zhenwei Dai</b>, Reinhard Heckel. <b>ICML 2019 Deep Phenomena Workshop.</b>'
 ---
 

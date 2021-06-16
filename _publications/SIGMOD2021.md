@@ -3,7 +3,7 @@ title: "Active Sampling Count Sketch (ASCS) for Online Sparse Estimation of a Tr
 collection: publications
 permalink: /publications/SIGMOD2021
 venue: "ACM SIGMOD 2021 "
-date: 2021-06
+date: 2021-06-22
 citation: '<b>Zhenwei Dai</b>, Aditya Desai</b>, Reinhard Heckel</b>, Anshumali Shrivastava. <b>ACM SIGMOD 2021.</b>'
 ---
 

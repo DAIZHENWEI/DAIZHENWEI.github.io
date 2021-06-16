@@ -3,7 +3,7 @@ title: "Batch effects correction for microbiome data with Dirichlet-multinomial 
 collection: publications
 permalink: /publications/Bioinformatics
 venue: "Bioinformatics. 2019 Mar 1;35(5):807-14"
-date: 2019-03
+date: 2019-03-01
 citation: '<b>Zhenwei Dai</b>, Yingying Wei. <b>Bioinformatics. 2019 Mar 1;35(5):807-14.</b>'
 ---
 

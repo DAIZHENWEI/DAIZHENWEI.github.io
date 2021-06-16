@@ -3,7 +3,7 @@ title: "Adaptive Learned Bloom Filter (Ada-BF): Efficient Utilization of the Cla
 collection: publications
 permalink: /publications/NeurIPS2020
 venue: "NeurIPS 2020 34th Conference on Neural Information Processing Systems"
-date: 2020-12
+date: 2020-12-8
 citation: '<b>Zhenwei Dai</b>, Anshumali Shrivastava. <b>NeurIPS 2020.</b>'
 ---
 
