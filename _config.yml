@@ -180,7 +180,7 @@ collections:
     permalink: /:collection/:path/
   talks:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path/  
 
 
 # Defaults
