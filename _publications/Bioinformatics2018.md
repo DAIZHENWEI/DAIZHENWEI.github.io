@@ -1,10 +1,10 @@
 ---
 title: "Batch effects correction for microbiome data with Dirichlet-multinomial regression"
 collection: publications
-permalink: /publications/Bioinformatics
+permalink: /publications/Bioinformatics2018
 venue: "Bioinformatics. 2019 Mar 1;35(5):807-14"
 date: 2019-03-01
-citation: '<b>Zhenwei Dai</b>, Yingying Wei. <b>Bioinformatics. 2019 Mar 1;35(5):807-14.</b>'
+citation: '<b>Zhenwei Dai</b>, Sunny H Wong, Jun Yu, Yingying Wei. <b>Bioinformatics. 2019 Mar 1;35(5):807-14.</b>'
 ---
 
 [[PDF]](https://academic.oup.com/bioinformatics/article/35/5/807/5078473?login=true)
