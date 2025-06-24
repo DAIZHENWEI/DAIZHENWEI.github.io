@@ -5,23 +5,30 @@ author_profile: true
 ---
 
 <br>
-<b>[Examples as the Prompt: A Scalable Approach for Efficient LLM Adaptation in E-Commerce](http://DAIZHENWEI.github.io/publications/FedMLH)</b> 
+<b>Examples as the Prompt: A Scalable Approach for Efficient LLM Adaptation in E-Commerce</b> 
 <br> 
 Jingying Zeng, <b>Zhenwei Dai</b>, Hui Liu, Qi He, Xianfeng Tang <br> 
 <i>SIGIR industry track, 2025</i>
+<span style="color:red"> [Paper Link](https://arxiv.org/pdf/2503.13518)</span>
 
 
 <br>
-<b>[Cite before you speak: Enhancing context-response grounding in e-commerce conversational llm-agents](http://DAIZHENWEI.github.io/publications/FedMLH)</b> 
+<b>Cite before you speak: Enhancing context-response grounding in e-commerce conversational llm-agents</b> 
 <br> 
-Jingying Zeng, <b>Zhenwei Dai</b>, Hui Liu, Qi He, Xianfeng Tang <br> 
-<i>SIGIR industry track, 2025</i>
+Jingying Zeng, Hui Liu, Zhenwei Dai, Xianfeng Tang, Qi He<br>
+<i>SIGIR industry track, 2025</i><i>SIGIR industry track, 2025</i>
 
+<span style="color:red"> [Paper Link](https://arxiv.org/pdf/2503.04830)</span>
 
 <br>
-<b>[Federated Multiple Label Hashing (FedMLH): Communication Efficient Federated Learning on Extreme Classification Tasks](http://DAIZHENWEI.github.io/publications/FedMLH)</b> <br> 
-<b>Zhenwei Dai</b>,  Chen Dun, Yuxin Tang, Anshumali Shrivastava. <br> 
-<i>In Submission</i>
+<b>
+RA-NER: Retrieval augmented NER for knowledge intensive named entity recognition
+</b>
+<br>
+<i>ICLR Tiny 2024</i>
+<span style="color:red"> [Paper Link](https://openreview.net/pdf?id=HyKNjew2Ad)</span>
+
+
 
 <br>
 <b>[Active Sampling Count Sketch (ASCS) for Online Sparse Estimation of a Trillion Scale Covariance Matrix](http://DAIZHENWEI.github.io/publications/SIGMOD2021)</b> <br> 
