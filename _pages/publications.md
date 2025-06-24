@@ -7,7 +7,7 @@ author_profile: true
 <br>
 <b>Examples as the Prompt: A Scalable Approach for Efficient LLM Adaptation in E-Commerce</b> 
 <br> 
-Jingying Zeng*, <b>Zhenwei Dai*</b>, Hui Liu, Qi He, Xianfeng Tang* <br> 
+Jingying Zeng\*, <b>Zhenwei Dai\*</b>, Hui Liu, Qi He, Xianfeng Tang* <br> 
 <i>SIGIR industry track, 2025</i>
 <span style="color:red"> [Paper Link](https://arxiv.org/pdf/2503.13518)</span>
 
@@ -15,7 +15,7 @@ Jingying Zeng*, <b>Zhenwei Dai*</b>, Hui Liu, Qi He, Xianfeng Tang* <br>
 <br>
 <b>Cite before you speak: Enhancing context-response grounding in e-commerce conversational llm-agents</b> 
 <br> 
-Jingying Zeng*, Hui Liu*, <b>Zhenwei Dai*</b>, Xianfeng Tang, Qi He
+Jingying Zeng\*, Hui Liu\*, <b>Zhenwei Dai\*</b>, Xianfeng Tang, Qi He
 <br>
 <i>SIGIR industry track, 2025</i>
 <span style="color:red"> [Paper Link](https://arxiv.org/pdf/2503.04830)</span>
@@ -37,6 +37,16 @@ Jie Ren, <b>Zhenwei Dai</b>, Xianfeng Tang, Hui Liu, Jingying Zeng, Suhang Wang,
 <br>
 <i>ACL 2025</i>
 <span style="color:red"> [Paper Link](https://arxiv.org/pdf/2502.17823)</span>
+
+
+<br>
+<b>Stepwise perplexity-guided refinement for efficient chain-of-thought reasoning in large language models</b>
+<br>
+Yingqian Cui, Pengfei He, Jingying Zeng, Hui Liu, <b>Zhenwei Dai</b>, Xianfeng Tang, Yue Xing, Jiliang Tang, Qi He
+<br>
+<i>ACL 2025</i>
+<span style="color:red"> [Paper Link](https://arxiv.org/pdf/2502.13260)</span>
+
 
 
 
