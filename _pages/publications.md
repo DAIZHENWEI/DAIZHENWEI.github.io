@@ -5,6 +5,20 @@ author_profile: true
 ---
 
 <br>
+<b>[Examples as the Prompt: A Scalable Approach for Efficient LLM Adaptation in E-Commerce](http://DAIZHENWEI.github.io/publications/FedMLH)</b> 
+<br> 
+Jingying Zeng, <b>Zhenwei Dai</b>, Hui Liu, Qi He, Xianfeng Tang <br> 
+<i>SIGIR industry track, 2025</i>
+
+
+<br>
+<b>[Cite before you speak: Enhancing context-response grounding in e-commerce conversational llm-agents](http://DAIZHENWEI.github.io/publications/FedMLH)</b> 
+<br> 
+Jingying Zeng, <b>Zhenwei Dai</b>, Hui Liu, Qi He, Xianfeng Tang <br> 
+<i>SIGIR industry track, 2025</i>
+
+
+<br>
 <b>[Federated Multiple Label Hashing (FedMLH): Communication Efficient Federated Learning on Extreme Classification Tasks](http://DAIZHENWEI.github.io/publications/FedMLH)</b> <br> 
 <b>Zhenwei Dai</b>,  Chen Dun, Yuxin Tang, Anshumali Shrivastava. <br> 
 <i>In Submission</i>
