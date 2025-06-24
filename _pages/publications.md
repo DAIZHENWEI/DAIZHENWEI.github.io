@@ -1,5 +1,5 @@
 ---
-title: "Publications [(Google Scholar)](https://scholar.google.com/citations?user=f73pQXsAAAAJ&hl=en&oi=ao)"
+title: "Selected Publications [(Google Scholar)](https://scholar.google.com/citations?hl=en&user=f73pQXsAAAAJ&view_op=list_works&sortby=pubdate)"
 permalink: /publications/
 author_profile: true
 ---
@@ -7,7 +7,7 @@ author_profile: true
 <br>
 <b>Examples as the Prompt: A Scalable Approach for Efficient LLM Adaptation in E-Commerce</b> 
 <br> 
-Jingying Zeng, <b>Zhenwei Dai</b>, Hui Liu, Qi He, Xianfeng Tang <br> 
+Jingying Zeng*, <b>Zhenwei Dai*</b>, Hui Liu, Qi He, Xianfeng Tang* <br> 
 <i>SIGIR industry track, 2025</i>
 <span style="color:red"> [Paper Link](https://arxiv.org/pdf/2503.13518)</span>
 
@@ -15,7 +15,7 @@ Jingying Zeng, <b>Zhenwei Dai</b>, Hui Liu, Qi He, Xianfeng Tang <br>
 <br>
 <b>Cite before you speak: Enhancing context-response grounding in e-commerce conversational llm-agents</b> 
 <br> 
-Jingying Zeng, Hui Liu, <b>Zhenwei Dai</b>, Xianfeng Tang, Qi He
+Jingying Zeng*, Hui Liu*, <b>Zhenwei Dai*</b>, Xianfeng Tang, Qi He
 <br>
 <i>SIGIR industry track, 2025</i>
 <span style="color:red"> [Paper Link](https://arxiv.org/pdf/2503.04830)</span>
