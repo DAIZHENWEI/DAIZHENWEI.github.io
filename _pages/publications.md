@@ -15,18 +15,50 @@ Jingying Zeng, <b>Zhenwei Dai</b>, Hui Liu, Qi He, Xianfeng Tang <br>
 <br>
 <b>Cite before you speak: Enhancing context-response grounding in e-commerce conversational llm-agents</b> 
 <br> 
-Jingying Zeng, Hui Liu, Zhenwei Dai, Xianfeng Tang, Qi He<br>
-<i>SIGIR industry track, 2025</i><i>SIGIR industry track, 2025</i>
-
+Jingying Zeng, Hui Liu, <b>Zhenwei Dai</b>, Xianfeng Tang, Qi He
+<br>
+<i>SIGIR industry track, 2025</i>
 <span style="color:red"> [Paper Link](https://arxiv.org/pdf/2503.04830)</span>
+
+
+<br>
+<b>Attention Knows Whom to Trust: Attention-based Trust Management for LLM Multi-Agent Systems </b>
+<br>
+Pengfei He, <b>Zhenwei Dai</b>, Xianfeng Tang, Yue Xing, Hui Liu, Shrivats Agrawal, Suhang Wang, Jiliang Tang, Qi He
+<br>
+<i>In submission to NeurIPS 2025</i>
+<span style="color:red"> [Paper Link](https://arxiv.org/pdf/2506.02546)</span>
+
+
+<br>
+<b>A general framework to enhance fine-tuning-based llm unlearning </b>
+<br>
+Jie Ren, <b>Zhenwei Dai</b>, Xianfeng Tang, Hui Liu, Jingying Zeng, Suhang Wang, Yue Xing, Qi He
+<br>
+<i>ACL 2025</i>
+<span style="color:red"> [Paper Link](https://arxiv.org/pdf/2502.17823)</span>
+
+
 
 <br>
 <b>
 RA-NER: Retrieval augmented NER for knowledge intensive named entity recognition
 </b>
 <br>
+<b>Zhenwei Dai</b>, Chen Luo, Xianfeng Tang, Hanqing Lu, Rahul Goutam, Haiyang Zhang
+<br>
 <i>ICLR Tiny 2024</i>
 <span style="color:red"> [Paper Link](https://openreview.net/pdf?id=HyKNjew2Ad)</span>
+
+
+<br>
+<b>ScatterSample: Diversified Label Sampling for Data Efficient Graph Neural Network Learning</b>
+<br>
+<b>Zhenwei Dai</b>, Vasileios Ioannidis, Soji Adeshina, Zak Jost, Christos Faloutsos, George Karypis
+<br>
+<i>Learning of Graphs 2022</i>
+<span style="color:red"> [Paper Link](https://arxiv.org/pdf/2206.04255)</span>
+
 
 
 
