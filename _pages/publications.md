@@ -70,6 +70,14 @@ RA-NER: Retrieval augmented NER for knowledge intensive named entity recognition
 <span style="color:red"> [Paper Link](https://arxiv.org/pdf/2206.04255)</span>
 
 
+<br>
+<b>Graph Self-supervised Learning via Proximity Distribution Minimization</b>
+<br>
+Tianyi Zhang, <b>Zhenwei Dai</b>, Zhaozhuo Xu, Anshumali Shrivastava
+<br>
+<i>Uncertainty in Artificial Intelligence 2023</i>
+<span style="color:red"> [Paper Link](https://proceedings.mlr.press/v216/zhang23d/zhang23d.pdf)</span>
+
 
 
 <br>
