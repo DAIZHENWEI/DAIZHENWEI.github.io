@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhenwei Dai"
 title_separator          : "-"
 name                     : &name "Zhenwei Dai"
-description              : &description "Senior Applied Scientist, Amazon"
+description              : &description "Principal Applied Scientist, Microsoft M365 Copilot"
 url                      : https://DAIZHENWEI.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DAIZHENWEI/DAIZHENWEI.github.io"
@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Zhenwei Dai"
   avatar           : "Headshoot_crop.jpg"
-  bio              : "Senior Applied Scientist"
+  bio              : "Principal Applied Scientist at Microsoft M365 Copilot"
+  role             : "Principal Applied Scientist"
+  affiliation      : "Microsoft M365 Copilot"
   location         : "Seattle, WA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=f73pQXsAAAAJ&hl=en&oi=ao"
@@ -217,7 +219,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: academic
       author_profile: true
       share: true
       comments: true

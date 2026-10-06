@@ -1,0 +1,21 @@
+<div class="publication-list">
+  {% assign publication_limit = include.limit | default: 100 %}
+  {% assign previous_year = '' %}
+  {% for publication in site.data.selected_publications limit: publication_limit %}
+    {% if include.group_years and publication.year != previous_year %}
+      <h2 class="publication-year">{{ publication.year }}</h2>
+      {% assign previous_year = publication.year %}
+    {% endif %}
+    <article class="publication{% if publication.featured %} featured-publication{% endif %}">
+      <h3>{{ publication.title | escape }}</h3>
+      <div class="publication-authors">{{ publication.authors | markdownify }}</div>
+      <div class="publication-details">
+        <span class="publication-venue">{{ publication.venue | escape }}</span>
+        <div class="publication-links">
+          {% for link in publication.links %}<a href="{{ link.url }}" aria-label="{{ link.label }}: {{ publication.title | escape }}">{{ link.label }} <span aria-hidden="true">↗</span></a>{% endfor %}
+          {% if publication.detail_url %}<a href="{{ publication.detail_url | relative_url }}" aria-label="Abstract: {{ publication.title | escape }}">Abstract</a>{% endif %}
+        </div>
+      </div>
+    </article>
+  {% endfor %}
+</div>

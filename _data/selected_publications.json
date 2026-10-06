@@ -1,0 +1,230 @@
+[
+  {
+    "year": 2026,
+    "title": "MiniCorp: The Last Mile of the AI Agent Firm",
+    "authors": "Jingying Zeng, **Zhenwei Dai**, Jinning Li, Changho Shin, Dylan Zhang, Yuxuan Lu, Qi He, Dakuo Wang, Kai-Wei Chang.",
+    "venue": "arXiv preprint, October 2026",
+    "featured": true,
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://agents-minicorp.com/"
+      },
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2610.05912"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2610.05912"
+      }
+    ]
+  },
+  {
+    "year": 2026,
+    "title": "Firefly: Illuminating Verified Real-world Tool Call Data Generation",
+    "authors": "Yuxuan Lu, Ziyi Wang, Yingzhou Lu, Yisi Sang, Jiri Gesi, Xianfeng Tang, Yimeng Zhang, **Zhenwei Dai**, Hui Liu, Hanqing Lu, Chen Luo, Qi He, Benoit Dumoulin, Jing Huang, Dakuo Wang.",
+    "venue": "NeurIPS 2026, poster",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2605.17558"
+      }
+    ]
+  },
+  {
+    "year": 2026,
+    "title": "A Reward-Guided Dual-Phase Framework for Adaptive Inference-Time Reasoning",
+    "authors": "Yingqian Cui, **Zhenwei Dai**, Pengfei He, Bing He, Hui Liu, Zhan Shi, Xianfeng Tang, Jingying Zeng, Suhang Wang, Yue Xing, Jiliang Tang, Benoit Dumoulin.",
+    "venue": "Findings of ACL 2026",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2026.findings-acl.511/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://aclanthology.org/2026.findings-acl.511.pdf"
+      }
+    ]
+  },
+  {
+    "year": 2026,
+    "title": "TRAJECT-Bench: A Trajectory-Aware Benchmark for Evaluating Agentic Tool Use",
+    "authors": "Pengfei He, **Zhenwei Dai**, Bing He, Hui Liu, Xianfeng Tang, Hanqing Lu, Juanhui Li, Jiayuan Ding, Subhabrata Mukherjee, Suhang Wang, Yue Xing, Jiliang Tang, Benoit Dumoulin.",
+    "venue": "ICLR 2026",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2510.04550"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/PengfeiHePower/TRAJECT-Bench"
+      }
+    ]
+  },
+  {
+    "year": 2026,
+    "title": "To Trust or Not to Trust: Attention-based Trust Management for LLM Multi-Agent Systems",
+    "authors": "Pengfei He, **Zhenwei Dai**, Xianfeng Tang, Yue Xing, Hui Liu, Jingying Zeng, Qiankun Peng, Shrivats Agrawal, Samarth Varshney, Suhang Wang, Jiliang Tang, Qi He.",
+    "venue": "ACL 2026, main conference; NeurIPS 2026, poster",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2506.02546"
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "title": "Keeping an Eye on LLM Unlearning: The Hidden Risk and Remedy",
+    "authors": "Jie Ren, **Zhenwei Dai**, Xianfeng Tang, Yue Xing, Shenglai Zeng, Jingying Zeng, Qiankun Peng, Samarth Varshney, Suhang Wang, Qi He, Charu Aggarwal, Hui Liu.",
+    "venue": "NeurIPS 2025",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://proceedings.nips.cc/paper_files/paper/2025/hash/b31c332c4cebcec31b788400b47c94b3-Abstract-Conference.html"
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "title": "Examples as the Prompt: A Scalable Approach for Efficient LLM Adaptation in E-Commerce",
+    "authors": "Jingying Zeng\\*, **Zhenwei Dai\\***, Hui Liu\\*, Samarth Varshney, Zhiji Liu, Chen Luo, Zhen Li, Qi He, Xianfeng Tang.",
+    "venue": "SIGIR 2025, industry track",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2503.13518"
+      },
+      {
+        "label": "Proceedings",
+        "url": "https://doi.org/10.1145/3726302.3731941"
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "title": "Cite Before You Speak: Enhancing Context-Response Grounding in E-commerce Conversational LLM-Agents",
+    "authors": "Jingying Zeng\\*, Hui Liu\\*, **Zhenwei Dai\\***, Xianfeng Tang, Chen Luo, Samarth Varshney, Zhen Li, Qi He.",
+    "venue": "arXiv preprint, 2025",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2503.04830"
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "title": "A General Framework to Enhance Fine-tuning-based LLM Unlearning",
+    "authors": "Jie Ren\\*, **Zhenwei Dai\\***, Xianfeng Tang, Hui Liu, Jingying Zeng, Zhen Li, Rahul Goutam, Suhang Wang, Yue Xing, Qi He, Hui Liu.",
+    "venue": "Findings of ACL 2025",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2025.findings-acl.949/"
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "title": "Stepwise Perplexity-Guided Refinement for Efficient Chain-of-Thought Reasoning in Large Language Models",
+    "authors": "Yingqian Cui, Pengfei He, Jingying Zeng, Hui Liu, Xianfeng Tang, **Zhenwei Dai**, Yan Han, Chen Luo, Jing Huang, Zhen Li, Suhang Wang, Yue Xing, Jiliang Tang, Qi He.",
+    "venue": "Findings of ACL 2025",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://aclanthology.org/2025.findings-acl.956/"
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "title": "How Far Are LLMs from Real Search? A Comprehensive Study on Efficiency, Completeness, and Inherent Capabilities",
+    "authors": "Minhua Lin, Hui Liu, Xianfeng Tang, Jingying Zeng, **Zhenwei Dai**, Chen Luo, Zheng Li, Xiang Zhang, Qi He, Suhang Wang.",
+    "venue": "arXiv preprint, 2025",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2502.18387"
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "title": "RA-NER: Retrieval Augmented NER for Knowledge Intensive Named Entity Recognition",
+    "authors": "**Zhenwei Dai**, Chen Luo, Zhen Li, Xianfeng Tang, Hanqing Lu, Rahul Goutam, Haiyang Zhang.",
+    "venue": "ICLR 2024, Tiny Papers track",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://openreview.net/forum?id=HyKNjew2Ad"
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "title": "Graph Self-supervised Learning via Proximity Distribution Minimization",
+    "authors": "Tianyi Zhang, **Zhenwei Dai**, Zhaozhuo Xu, Anshumali Shrivastava.",
+    "venue": "UAI 2023",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://proceedings.mlr.press/v216/zhang23d.html"
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "title": "ScatterSample: Diversified Label Sampling for Data Efficient Graph Neural Network Learning",
+    "authors": "**Zhenwei Dai**, Vasileios Ioannidis, Soji Adeshina, Zak Jost, Christos Faloutsos, George Karypis.",
+    "venue": "Learning on Graphs Conference 2022",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2206.04255"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "title": "Active Sampling Count Sketch (ASCS) for Online Sparse Estimation of a Trillion Scale Covariance Matrix",
+    "authors": "**Zhenwei Dai**, Aditya Desai, Reinhard Heckel, Anshumali Shrivastava.",
+    "venue": "ACM SIGMOD 2021",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2010.15951"
+      }
+    ],
+    "detail_url": "/publications/SIGMOD2021.html"
+  },
+  {
+    "year": 2020,
+    "title": "Adaptive Learned Bloom Filter (Ada-BF): Efficient Utilization of the Classifier with Application to Real-Time Information Filtering on the Web",
+    "authors": "**Zhenwei Dai**, Anshumali Shrivastava.",
+    "venue": "NeurIPS 2020",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://par.nsf.gov/servlets/purl/10217248"
+      }
+    ],
+    "detail_url": "/publications/NeurIPS2020.html"
+  },
+  {
+    "year": 2019,
+    "title": "Channel Normalization in Convolutional Neural Network Avoids Vanishing Gradients",
+    "authors": "**Zhenwei Dai**, Reinhard Heckel.",
+    "venue": "ICML 2019, Deep Phenomena workshop",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/1907.09539"
+      }
+    ],
+    "detail_url": "/publications/ICML2019DeepPhenomenaWorkshop.html"
+  }
+]
