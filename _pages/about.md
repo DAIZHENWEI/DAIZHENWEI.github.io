@@ -20,7 +20,7 @@ redirect_from:
 
 <section id="minicorp" class="home-section" aria-labelledby="minicorp-heading">
   <div class="section-heading">
-    <h2 id="minicorp-heading">MiniCorp</h2>
+    <h2 id="minicorp-heading">MiniCorp: The Last Mile of the AI Agent Firm</h2>
   </div>
   <article class="project-feature">
     <p class="project-kicker">Featured research project <span aria-hidden="true">·</span> 2026</p>
@@ -28,7 +28,6 @@ redirect_from:
     <p>MiniCorp is an office simulator where AI agents work together, make decisions, and respond to market feedback. We use this setting to study how an AI-run company learns over time.</p>
     <p>A collaboration with <a href="https://jingyingzeng.com/">Jingying Zeng</a> and our coauthors.</p>
     <img class="project-image" src="{{ '/minicorp_demo.png' | relative_url }}" alt="Illustration of connected MiniCorp offices with AI agents working across different industries" width="2172" height="724" loading="lazy" decoding="async">
-    <p class="project-paper">Our paper: <em>MiniCorp: The Last Mile of the AI Agent Firm</em></p>
     <div class="project-links">
       <a class="project-website" href="https://agents-minicorp.com/">Explore MiniCorp <span aria-hidden="true">↗</span></a>
       <a href="https://arxiv.org/pdf/2610.05912">Read the paper <span aria-hidden="true">↗</span></a>
